@@ -5,6 +5,7 @@ site_name = "Distrust"
 site_description = "Nie ufaj domyślnie. Ale najpierw wiedz, czemu."
 site_author = "Eteryu"
 site_url = "https://distrust.pages.dev"
+copyright = "Copyright &copy; 2026 Eteryu · Manifest o świadomym zaufaniu"
 
 # nawigacja
 nav = [
