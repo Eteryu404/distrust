@@ -1,0 +1,15 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}
+  <section class="mdx-hero">
+    <div class="mdx-hero__inner">
+      <h1>Nie ufaj domyślnie.</h1>
+      <p>Ale najpierw wiedz, czemu.</p>
+      <a href="zasady/domyslne-ustawienia/" class="md-button md-button--primary">Zacznij od pierwszej zasady</a>
+    </div>
+    <svg class="mdx-hero__wave" viewBox="0 0 1440 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill="var(--md-default-bg-color)" d="M0,64L60,69.3C120,75,240,85,360,80C480,75,600,53,720,53.3C840,53,960,75,1080,80C1200,85,1320,75,1380,69.3L1440,64L1440,120L0,120Z"></path>
+    </svg>
+  </section>
+{% endblock %}
