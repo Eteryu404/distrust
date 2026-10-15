@@ -24,6 +24,7 @@ nav = [
 variant = "modern"
 custom_dir = "overrides"
 language = "pl"
+font = false
 
 # funkcje interfejsu
 features = [
