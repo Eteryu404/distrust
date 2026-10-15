@@ -12,6 +12,6 @@ W świecie, w którym każda aplikacja chce Twoich danych, a każda firma obiecu
 
 Ale nieufność bez celu to tylko lęk. Prawdziwe bezpieczeństwo zaczyna się od pytania: **przed kim i przed czym właściwie się bronię?**
 
-Distrust to zbiór zasad, które pomagają myśleć o bezpieczeństwie cyfrowym bez złudzeń. Nie sprzedajemy narzędzi. Nie obiecujemy rozwiązań. Pokazujemy, jak myśleć.
+Distrust to zbiór zasad, które pomagają myśleć o bezpieczeństwie cyfrowym bez złudzeń. Bez sprzedawania narzędzi. Bez obiecywania rozwiązań. Sama treść.
 
 [Zacznij od pierwszej zasady](zasady/domyslne-ustawienia.md){ .md-button .md-button--primary }
