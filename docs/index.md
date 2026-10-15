@@ -1,7 +1,9 @@
 ---
 title: Distrust
 description: Nie ufaj domyślnie. Ale najpierw wiedz, czemu.
+template: home.html
 hide:
+  - navigation
   - toc
   - footer
 ---
