@@ -1,5 +1,5 @@
 ---
-title: Manifest
+title: Distrust
 description: Nie ufaj domyślnie. Ale najpierw wiedz, czemu.
 hide:
   - toc
@@ -14,6 +14,4 @@ Ale nieufność bez celu to tylko lęk. Prawdziwe bezpieczeństwo zaczyna się o
 
 Distrust to zbiór zasad, które pomagają myśleć o bezpieczeństwie cyfrowym bez złudzeń. Nie sprzedajemy narzędzi. Nie obiecujemy rozwiązań. Pokazujemy, jak myśleć.
 
----
-
-*Strona w budowie. Wkrótce pojawią się tu pierwsze zasady.*
+[Zacznij od pierwszej zasady](zasady/domyslne-ustawienia.md){ .md-button .md-button--primary }
