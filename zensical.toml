@@ -16,7 +16,7 @@ nav = [
     { "Zasady" = [
         { "Domyślne ustawienia" = "zasady/domyslne-ustawienia.md" },
     ]},
-    { "Markdown" = "markdown.md" },
+    { "O projekcie" = "o-projekcie.md" },
 ]
 
 # motyw
