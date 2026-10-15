@@ -75,14 +75,14 @@
 .mdx-hero__buttons {
     display: flex;
     justify-content: center;
-    gap: 1rem;
+    gap: 0.8rem;
     flex-wrap: wrap;
 }
 
 .mdx-hero .md-button {
     margin: 0;
-    padding: 0.6rem 1.5rem;
-    font-size: 0.8rem;
+    padding: 0.6rem 1.2rem;
+    font-size: 0.85rem;
     font-weight: 600;
     border-radius: 4px;
     transition: all 0.2s ease;
@@ -123,4 +123,4 @@
 :root {
     --md-text-font: "Roboto", -apple-system, sans-serif;
     --md-code-font: "Roboto Mono", SFMono-Regular, Consolas, monospace;
-}
+        }
