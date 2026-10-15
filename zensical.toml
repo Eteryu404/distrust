@@ -15,6 +15,7 @@ nav = [
     { "Manifest" = "index.md" },
     { "Zasady" = [
         { "Domyślne ustawienia" = "zasady/domyslne-ustawienia.md" },
+        { "Ufaj świadomie" = "zasady/ufaj-swiadomie.md" },
     ]},
     { "O projekcie" = "o-projekcie.md" },
 ]
