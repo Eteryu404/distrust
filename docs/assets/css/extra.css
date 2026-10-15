@@ -6,7 +6,7 @@
 /* hero na stronie głównej */
 .mdx-hero {
     position: relative;
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+    background: linear-gradient(135deg, #0a0a1a 0%, #1e1b4b 50%, #312e81 100%);
     color: white;
     padding: 4rem 1rem 6rem 1rem;
     text-align: center;
@@ -34,17 +34,28 @@
     color: white;
 }
 
-.mdx-hero .md-button--primary {
-    background-color: #4a67d9;
-    border-color: #4a67d9;
-    color: white;
+.mdx-hero__buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.mdx-hero .md-button {
+    margin: 0;
     padding: 0.6rem 1.5rem;
     font-weight: 600;
 }
 
+.mdx-hero .md-button--primary {
+    background-color: #3f51b5;
+    border-color: #3f51b5;
+    color: white;
+}
+
 .mdx-hero .md-button--primary:hover {
-    background-color: #5a77e9;
-    border-color: #5a77e9;
+    background-color: #5c6bc0;
+    border-color: #5c6bc0;
 }
 
 .mdx-hero__wave {
