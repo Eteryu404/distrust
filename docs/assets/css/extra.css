@@ -34,7 +34,7 @@
     color: white;
 }
 
-/* kontener przycisków — jedyna rzecz, której Zensical nie ma */
+/* kontener przycisków */
 .mdx-hero__buttons {
     display: flex;
     justify-content: center;
@@ -42,14 +42,41 @@
     flex-wrap: wrap;
 }
 
-/* korekta kolorów dla przycisków na ciemnym hero */
+/* jawna stylizacja przycisków — Zensical nie stosuje domyślnych w tym kontekście */
+.mdx-hero .md-button {
+    display: inline-block;
+    padding: 0.6rem 1.5rem;
+    margin: 0;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.2;
+    border-radius: 0.2rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.mdx-hero .md-button--primary {
+    background-color: #3f51b5;
+    border: 2px solid #3f51b5;
+    color: white;
+}
+
+.mdx-hero .md-button--primary:hover {
+    background-color: #5c6bc0;
+    border-color: #5c6bc0;
+    color: white;
+}
+
 .mdx-hero .md-button:not(.md-button--primary) {
-    border-color: white;
+    background-color: transparent;
+    border: 2px solid white;
     color: white;
 }
 
 .mdx-hero .md-button:not(.md-button--primary):hover {
     background-color: rgba(255, 255, 255, 0.1);
+    color: white;
 }
 
 .mdx-hero__wave {
@@ -59,10 +86,4 @@
     width: 100%;
     height: 80px;
     display: block;
-}
-
-/* ukrycie auto-generowanego tytułu — tylko na stronie głównej */
-.md-content:has(.mdx-hero) .md-content__inner h1:first-of-type,
-.md-content:has(.mdx-hero) .md-content__inner h2:first-of-type {
-    display: none;
 }
