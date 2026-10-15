@@ -1,0 +1,4 @@
+/* węższa kolumna treści dla lepszej czytelności */
+.md-grid {
+    max-width: 84%;
+}
