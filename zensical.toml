@@ -7,6 +7,9 @@ site_author = "Eteryu"
 site_url = "https://distrust.pages.dev"
 copyright = "Copyright &copy; 2026 Eteryu · Manifest o świadomym zaufaniu"
 
+# niestandardowe style
+extra_css = ["assets/css/extra.css"]
+
 # nawigacja
 nav = [
     { "Manifest" = "index.md" },
