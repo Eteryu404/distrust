@@ -6,6 +6,7 @@ hide:
   - navigation
   - toc
   - footer
+  - title
 ---
 
 W świecie, w którym każda aplikacja chce Twoich danych, a każda firma obiecuje prywatność, zdrowy brak zaufania nie jest paranoją. Jest rozsądkiem.
