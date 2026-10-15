@@ -82,6 +82,7 @@
 .mdx-hero .md-button {
     margin: 0;
     padding: 0.6rem 1.5rem;
+    font-size: 0.95rem;
     font-weight: 600;
     border-radius: 4px;
     transition: all 0.2s ease;
@@ -122,4 +123,4 @@
 :root {
     --md-text-font: "Roboto", -apple-system, sans-serif;
     --md-code-font: "Roboto Mono", SFMono-Regular, Consolas, monospace;
-    }
+}
