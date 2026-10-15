@@ -34,6 +34,7 @@
     color: white;
 }
 
+/* kontener przycisków — jedyna rzecz, której Zensical nie ma */
 .mdx-hero__buttons {
     display: flex;
     justify-content: center;
@@ -41,36 +42,14 @@
     flex-wrap: wrap;
 }
 
-.mdx-hero .md-button {
-    margin: 0;
-    padding: 0.6rem 1.5rem;
-    font-weight: 600;
-    border-radius: 4px;
-    transition: all 0.2s ease;
-}
-
-/* przycisk główny — pełne indygo tło */
-.mdx-hero .md-button--primary {
-    background-color: #3f51b5;
-    border: 2px solid #3f51b5;
-    color: white;
-}
-
-.mdx-hero .md-button--primary:hover {
-    background-color: #5c6bc0;
-    border-color: #5c6bc0;
-}
-
-/* przycisk drugorzędny — przezroczysty z białym obramowaniem */
+/* korekta kolorów dla przycisków na ciemnym hero */
 .mdx-hero .md-button:not(.md-button--primary) {
-    background-color: transparent;
-    border: 2px solid rgba(255, 255, 255, 0.6);
+    border-color: white;
     color: white;
 }
 
 .mdx-hero .md-button:not(.md-button--primary):hover {
     background-color: rgba(255, 255, 255, 0.1);
-    border-color: white;
 }
 
 .mdx-hero__wave {
@@ -82,7 +61,8 @@
     display: block;
 }
 
-/* ukrycie auto-generowanego H1 na stronie głównej */
-.md-content__inner > h1:first-child {
+/* ukrycie auto-generowanego tytułu — tylko na stronie głównej */
+.md-content:has(.mdx-hero) .md-content__inner h1:first-of-type,
+.md-content:has(.mdx-hero) .md-content__inner h2:first-of-type {
     display: none;
 }
