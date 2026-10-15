@@ -15,3 +15,4 @@ Ale nieufność bez celu to tylko lęk. Prawdziwe bezpieczeństwo zaczyna się o
 Distrust to zbiór zasad, które pomagają myśleć o bezpieczeństwie cyfrowym bez złudzeń. Bez sprzedawania narzędzi. Bez obiecywania rozwiązań. Sama treść.
 
 [Zacznij od pierwszej zasady](zasady/domyslne-ustawienia.md){ .md-button .md-button--primary }
+[O projekcie](o-projekcie.md){ .md-button }
