@@ -1,5 +1,14 @@
 {% extends "main.html" %}
 
+{% block extrahead %}
+  {{ super() }}
+  <style>
+    .md-content__inner > h1:first-child {
+      display: none;
+    }
+  </style>
+{% endblock %}
+
 {% block tabs %}
   {{ super() }}
   <section class="mdx-hero">
