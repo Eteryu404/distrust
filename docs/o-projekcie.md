@@ -30,3 +30,5 @@ Eteryu. Piszę o prywatności, bezpieczeństwie i cyfrowej suwerenności. Więce
 ## Kontakt
 
 Mastodon: [@eteryu@infosec.exchange](https://infosec.exchange/@eteryu)
+
+E-mail: [kontakt@distrust.pl](mailto:kontakt@distrust.pl)
