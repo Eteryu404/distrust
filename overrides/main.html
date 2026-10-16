@@ -3,8 +3,12 @@
 {% block extrahead %}
   {{ super() }}
 
-  {%- set og_title = page.meta.title or config.site_name -%}
-  {%- set og_desc = page.meta.description or config.site_description -%}
+  {%- set og_title = page.title or config.site_name -%}
+  {%- if page.meta and page.meta.description -%}
+    {%- set og_desc = page.meta.description -%}
+  {%- else -%}
+    {%- set og_desc = config.site_description -%}
+  {%- endif -%}
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="{{ config.site_name }}">
