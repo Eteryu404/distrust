@@ -26,6 +26,7 @@ variant = "modern"
 custom_dir = "overrides"
 language = "pl"
 font = false
+favicon = "assets/images/favicon.svg"
 
 # ikona logo w nagłówku
 [project.theme.icon]
