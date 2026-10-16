@@ -27,6 +27,10 @@ custom_dir = "overrides"
 language = "pl"
 font = false
 
+# ikona logo w nagłówku
+[project.theme.icon]
+logo = "lucide/search-check"
+
 # funkcje interfejsu
 features = [
     "announce.dismiss",
