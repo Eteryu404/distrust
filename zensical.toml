@@ -5,7 +5,7 @@ site_name = "Distrust"
 site_description = "Nie ufaj domyślnie. Ale najpierw wiedz, czemu."
 site_author = "Eteryu"
 site_url = "https://distrust.pl"
-copyright = 'Copyright &copy; 2026 Eteryu · Manifest o świadomym zaufaniu<br>Treść na licencji <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
+copyright = 'Copyright &copy; 2026 Eteryu · Manifest o świadomym zaufaniu<br>Treść na licencji <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a><br><a href="mailto:kontakt@distrust.pl">kontakt@distrust.pl</a>'
 
 # niestandardowe style
 extra_css = ["assets/css/extra.css"]
