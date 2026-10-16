@@ -17,9 +17,11 @@ Nie jest blogiem. Nie ma dat, nie ma kategorii, nie ma komentarzy. Zasady są po
 
 ## Skąd pomysł
 
-Zero trust w cybersecurity zostało przechwycone przez korporacyjny marketing. Sprzedaje się jako produkt, wymaga licencji, konsultantów, integracji. Tymczasem prawdziwe zero trust to postawa osobista: nie ufaj domyślnie, wiedz, komu i w jakim zakresie ufasz.
+Większość dyskusji o bezpieczeństwie kręci się wokół narzędzi. „Zainstaluj to", „skonfiguruj tamto", „włącz 2FA". Czytelnik dostaje listę rzeczy do zrobienia, ale nie dostaje odpowiedzi na pytanie, komu właściwie ufa i w jakim zakresie.
 
-Ta postawa nie wymaga kupowania niczego. Wymaga myślenia.
+A to jest pytanie, od którego wszystko się zaczyna. Bez niego narzędzia są arbitralne. Menedżer haseł bez kontekstu to rytuał. TOR bez kontekstu to przesada. Każde zabezpieczenie jest adekwatne tylko wtedy, gdy odpowiada na konkretną sytuację.
+
+Distrust nie mówi, czego używać. Mówi, jak myśleć o zaufaniu, żeby decyzje o narzędziach miały sens.
 
 ## Kto to prowadzi
 
