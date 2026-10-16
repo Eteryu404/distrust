@@ -58,10 +58,9 @@ features = [
 [[project.theme.palette]]
 primary = "indigo"
 accent = "indigo"
-media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "Przełącz na tryb jasny"
+toggle.name = "Switch to light mode"
 
 [[project.theme.palette]]
 primary = "indigo"
@@ -69,7 +68,7 @@ accent = "indigo"
 media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
-toggle.name = "Przełącz na tryb ciemny"
+toggle.name = "Switch to dark mode"
 
 # ustawienia dodatkowe
 [project.extra]
