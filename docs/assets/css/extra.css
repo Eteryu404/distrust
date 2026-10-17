@@ -132,3 +132,13 @@
     --md-text-font: "Roboto", -apple-system, sans-serif;
     --md-code-font: "Roboto Mono", SFMono-Regular, Consolas, monospace;
     }
+
+
+/* TEST DIAGNOSTYCZNY */
+body {
+    background-color: #2a0000 !important; /* Bardzo ciemna czerwień */
+}
+
+.md-typeset p {
+    color: #ff8888 !important; /* Jasna czerwień dla tekstu */
+    }
