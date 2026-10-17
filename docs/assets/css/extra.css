@@ -133,28 +133,28 @@
     --md-code-font: "Roboto Mono", SFMono-Regular, Consolas, monospace;
 }
 
-/* poprawki typografii treści */
+/* poprawki typografii treści (wymuszone) */
 .md-typeset p {
-    line-height: 1.75;
-    margin-bottom: 1.25em;
+    line-height: 1.8 !important;
+    margin-bottom: 1.5em !important;
 }
 
 .md-typeset h2 {
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
-    font-weight: 700;
+    margin-top: 3.5rem !important;
+    margin-bottom: 1.2rem !important;
+    font-weight: 700 !important;
 }
 
 .md-typeset h3 {
-    margin-top: 1.8rem;
-    margin-bottom: 0.8rem;
-    font-weight: 600;
+    margin-top: 2rem !important;
+    margin-bottom: 1rem !important;
+    font-weight: 600 !important;
 }
 
 .md-typeset a {
-    text-decoration-thickness: 1px;
-    text-underline-offset: 0.2em;
-    transition: color 0.2s ease, opacity 0.2s ease;
+    text-decoration-thickness: 2px !important;
+    text-underline-offset: 0.25em !important;
+    transition: opacity 0.2s ease;
 }
 
 .md-typeset a:hover {
@@ -162,18 +162,13 @@
 }
 
 .md-typeset blockquote {
-    border-left: 4px solid #5c6bc0;
-    background-color: rgba(92, 107, 192, 0.08);
-    padding: 1rem 1.5rem;
-    margin: 1.5rem 0;
+    border-left: 4px solid #5c6bc0 !important;
+    background-color: rgba(92, 107, 192, 0.1) !important;
+    padding: 1.5rem !important;
+    margin: 2rem 0 !important;
     border-radius: 0 4px 4px 0;
 }
 
 .md-typeset blockquote p:last-child {
-    margin-bottom: 0;
+    margin-bottom: 0 !important;
 }
-
-.md-typeset ::selection {
-    background-color: #5c6bc0;
-    color: #ffffff;
-    }
