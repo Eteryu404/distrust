@@ -133,12 +133,49 @@
     --md-code-font: "Roboto Mono", SFMono-Regular, Consolas, monospace;
     }
 
-
-/* TEST DIAGNOSTYCZNY */
-body {
-    background-color: #2a0000 !important; /* Bardzo ciemna czerwień */
+/* poprawki typografii treści */
+.md-typeset p {
+    line-height: 1.75;
+    margin-bottom: 1.5em;
 }
 
-.md-typeset p {
-    color: #ff8888 !important; /* Jasna czerwień dla tekstu */
+.md-typeset h2 {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.md-typeset h3 {
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+}
+
+.md-typeset a {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+    transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.md-typeset a:hover {
+    opacity: 0.8;
+}
+
+.md-typeset blockquote {
+    border-left: 4px solid #5c6bc0;
+    background-color: rgba(92, 107, 192, 0.1);
+    padding: 1.2rem 1.5rem;
+    margin: 2rem 0;
+    border-radius: 0 4px 4px 0;
+    font-style: italic;
+    color: #d1d5db;
+}
+
+.md-typeset blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+.md-typeset ::selection {
+    background-color: #5c6bc0;
+    color: #ffffff;
     }
