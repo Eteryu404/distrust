@@ -179,3 +179,27 @@
     background-color: #5c6bc0;
     color: #ffffff;
     }
+
+/* powiększenie logo w menu mobilnym */
+.md-nav__title[for="__drawer"] .md-logo img {
+    height: 2.2rem !important;
+    width: auto !important;
+    max-width: none !important;
+}
+
+/* wyrównanie i odstęp logo w menu */
+.md-nav__title[for="__drawer"] {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.md-nav__title[for="__drawer"] .md-logo {
+    margin-right: 0.8rem !important;
+    padding: 0 !important;
+}
+
+/* powiększenie logo w głównym nagłówku */
+.md-header__button.md-logo img {
+    height: 2rem !important;
+    width: auto !important;
+    }
