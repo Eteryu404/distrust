@@ -27,11 +27,8 @@ variant = "modern"
 custom_dir = "overrides"
 language = "pl"
 font = false
-favicon = "assets/images/favicon.svg"
-
-# ikona logo w nagłówku
-[project.theme.icon]
-logo = "lucide/search-check"
+logo = "assets/images/logo.png"
+favicon = "assets/images/favicon.png"
 
 # funkcje interfejsu
 features = [
