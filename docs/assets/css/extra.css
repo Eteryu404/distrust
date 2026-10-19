@@ -180,22 +180,27 @@
     color: #ffffff;
     }
 
-/* powiększenie logo w menu mobilnym */
-.md-nav__title[for="__drawer"] .md-logo img {
-    height: 2.2rem !important;
-    width: auto !important;
-    max-width: none !important;
-}
-
-/* wyrównanie i odstęp logo w menu */
+/* dopasowanie logo i napisu w menu mobilnym */
 .md-nav__title[for="__drawer"] {
     display: flex !important;
     align-items: center !important;
+    font-size: 1.1rem !important;
 }
 
+/* podniesienie logo optycznie do góry i wyrównanie */
 .md-nav__title[for="__drawer"] .md-logo {
-    margin-right: 0.8rem !important;
+    margin-right: 0.75rem !important;
     padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    transform: translateY(-2px); 
+}
+
+/* lekko zmniejszone logo dla lepszych proporcji */
+.md-nav__title[for="__drawer"] .md-logo img {
+    height: 2.1rem !important;
+    width: auto !important;
+    max-width: none !important;
 }
 
 /* powiększenie logo w głównym nagłówku */
