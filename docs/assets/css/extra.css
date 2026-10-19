@@ -184,7 +184,6 @@
 .md-nav__title[for="__drawer"] {
     display: flex !important;
     align-items: center !important;
-    font-size: 1.1rem !important;
 }
 
 /* podniesienie logo optycznie do góry i wyrównanie */
@@ -196,9 +195,9 @@
     transform: translateY(-2px); 
 }
 
-/* lekko zmniejszone logo dla lepszych proporcji */
-.md-nav__title[for="__drawer"] .md-logo img {
-    height: 2.1rem !important;
+/* precyzyjne skalowanie logo w menu mobilnym */
+.md-nav__title[for="__drawer"] .md-nav__button.md-logo img {
+    height: 2.2rem !important;
     width: auto !important;
     max-width: none !important;
 }
@@ -207,4 +206,4 @@
 .md-header__button.md-logo img {
     height: 2rem !important;
     width: auto !important;
-    }
+                                }
