@@ -1,9 +1,9 @@
 ---
-title: Zaufanie ma termin ważności
-description: Zaufanie nie jest aktem jednorazowym. Ma datę przydatności, którą trzeba regularnie sprawdzać.
+title: "Zasada 3: Zaufanie ma termin ważności"
+description: "Zaufanie nie jest aktem jednorazowym. Ma datę przydatności, którą trzeba regularnie sprawdzać."
 ---
 
-# Zaufanie ma termin ważności
+# Zasada 3: Zaufanie ma termin ważności
 
 W drugiej zasadzie pojawiło się jedno ważne słowo: **na jak długo**. Bo zaufanie nie jest kamieniem wyrytym w granicie. Jest jak mleko w lodówce – ma swoją datę przydatności do spożycia. I ta data nieustannie się zmienia.
 
