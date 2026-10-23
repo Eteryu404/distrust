@@ -1,5 +1,5 @@
 ---
-title: Domyślne ustawienia są czyjąś decyzją
+title: Zasada 1: Domyślne ustawienia są czyjąś decyzją
 description: Nic nie jest neutralne. Każde ustawienie domyślne zostało przez kogoś zaprojektowane, żeby działać w czyimś interesie.
 ---
 
