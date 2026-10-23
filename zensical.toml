@@ -17,6 +17,7 @@ nav = [
         { "Domyślne ustawienia" = "zasady/domyslne-ustawienia.md" },
         { "Ufaj świadomie" = "zasady/ufaj-swiadomie.md" },
         { "Zaufanie ma termin ważności" = "zasady/zaufanie-ma-termin-waznosci.md" },
+        { "Zaufanie nie jest dziedziczone" = "zasady/zaufanie-nie-jest-dziedziczone.md" },
     ]},
     { "O projekcie" = "o-projekcie.md" },
 ]
