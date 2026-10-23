@@ -14,10 +14,10 @@ extra_css = ["assets/css/extra.css"]
 nav = [
     { "Manifest" = "index.md" },
     { "Zasady" = [
-        { "Domyślne ustawienia" = "zasady/domyslne-ustawienia.md" },
-        { "Ufaj świadomie" = "zasady/ufaj-swiadomie.md" },
-        { "Zaufanie ma termin ważności" = "zasady/zaufanie-ma-termin-waznosci.md" },
-        { "Zaufanie nie jest dziedziczone" = "zasady/zaufanie-nie-jest-dziedziczone.md" },
+        { "1. Domyślne ustawienia" = "zasady/domyslne-ustawienia.md" },
+        { "2. Ufaj świadomie" = "zasady/ufaj-swiadomie.md" },
+        { "3. Zaufanie ma termin ważności" = "zasady/zaufanie-ma-termin-waznosci.md" },
+        { "4. Zaufanie nie jest dziedziczone" = "zasady/zaufanie-nie-jest-dziedziczone.md" },
     ]},
     { "O projekcie" = "o-projekcie.md" },
 ]
