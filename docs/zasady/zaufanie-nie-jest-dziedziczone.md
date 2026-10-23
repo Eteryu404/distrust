@@ -1,9 +1,9 @@
 ---
-title: Zaufanie nie jest dziedziczone
-description: Zaufanie przyznane jednemu podmiotowi nie rozciąga się automatycznie na całe jego otoczenie. Każdy element ekosystemu wymaga osobnej decyzji.
+title: "Zasada 4: Zaufanie nie jest dziedziczone"
+description: "Zaufanie przyznane jednemu podmiotowi nie rozciąga się automatycznie na całe jego otoczenie. Każdy element ekosystemu wymaga osobnej decyzji."
 ---
 
-# Zaufanie nie jest dziedziczone
+# Zasada 4: Zaufanie nie jest dziedziczone
 
 Pierwsza zasada odebrała złudzenia co do ustawień domyślnych. Druga i trzecia ustaliły, komu i na jak długo ufamy. Teraz czas na pytanie o granice: **na kogo dokładnie rozciąga się to zaufanie?**
 
