@@ -3,7 +3,7 @@ title: "Zasada 1: Domyślne ustawienia są czyjąś decyzją"
 description: "Nic nie jest neutralne. Każde ustawienie domyślne zostało przez kogoś zaprojektowane, żeby działać w czyimś interesie."
 ---
 
-# Domyślne ustawienia są czyjąś decyzją
+# Zasada 1: Domyślne ustawienia są czyjąś decyzją
 
 Instalujesz nową aplikację. Otwierasz ją pierwszy raz. Wyskakuje okno: „Aplikacja chce uzyskać dostęp do Twoich kontaktów, lokalizacji i plików". Klikasz „Zezwól", bo chcesz przejść dalej. Albo klikasz „Nie zezwalaj", bo masz nawyk.
 
