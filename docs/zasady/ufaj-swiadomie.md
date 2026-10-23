@@ -1,9 +1,9 @@
 ---
-title: Ufaj świadomie, nie domyślnie
-description: Distrust nie znaczy „nie ufaj nikomu". Znaczy „wiedz, komu i w jakim zakresie ufasz".
+title: "Zasada 2: Ufaj świadomie, nie domyślnie"
+description: 'Distrust nie znaczy „nie ufaj nikomu". Znaczy „wiedz, komu i w jakim zakresie ufasz".'
 ---
 
-# Ufaj świadomie, nie domyślnie
+# Zasada 2: Ufaj świadomie, nie domyślnie
 
 Pierwsza zasada zostawia czytelnika z pytaniem: skoro domyślne ustawienia są czyjąś decyzją, to co mam zrobić? Wyłączyć wszystko? Ufać nikomu?
 
